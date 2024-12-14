@@ -1,0 +1,58 @@
+.fila{width: 800px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    
+
+}
+    
+
+article{
+    display: inline-block;
+    width: 900px;
+
+}
+img{
+    display: inline;
+    width: 180px;
+    height: 250px;
+
+
+}
+.caja{
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin: 1px;
+    display: inline-block;
+}¨
+.palabras{
+    width: 1200px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+}
+nav{
+    
+    display: inline-block;
+    margin: 20px;
+    width: 150px;
+    height:1000px;
+    background-color: rgb(35, 6, 139);
+    justify-content: center;
+}
+a, h2{
+    display: inline;
+    margin: 50px;
+    width: 150px;
+    background-color: rgb(35, 6, 139);
+}
+header, h1{
+    display: block;
+    margin: 50px;
+    margin-left: 80px;
+    margin-top: 70px;
+    background-color: rgb(35, 6, 139);
+}
+.estructura{
+    display: inline-block;
+    width: 1200px;
+}

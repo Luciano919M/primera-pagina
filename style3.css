@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+header{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+
+}
+.pagina{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(61, 142, 247);
+    justify-content: center;
+    align-items: center;
+
+}
+.caja{
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+    background-color: rgb(35, 6, 139);
+}
+.fila{
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+    background-color: black;
+}
+
+
+
